@@ -4,7 +4,6 @@
     "homepage": "http://image.intervention.io/",
     "keywords": ["image", "gd", "imagick", "laravel", "watermark", "thumbnail"],
     "license": "MIT",
-    "version": "master",
     "authors": [
         {
             "name": "Oliver Vogel",
