@@ -26,12 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Intervention\\Image\\": "src/Intervention/Image"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.3-dev"
+            "Intervention\\Image\\": "src/tectiv3/Image"
         }
     },
     "minimum-stability": "stable"
